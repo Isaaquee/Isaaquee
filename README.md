@@ -6,30 +6,6 @@
 - 😎 Conhecimento em Redes de computadores, Cabeamento estruturado, Linux, Oracle e Scrum.
 
 
-# Certificações
-Todas minhas certificações de cursos (+EaDs e Eventos);  
-Clique nas setas (**⮚**) para conferir o certificado/comprovante;  
-As bandeiras ![][iUS] representam cursos no idioma Inglês.
-
-## 🏛 Acadêmico / Científico
-| Órgão emissor          | Certificação                                                      | Data                       |
-| ---------------------- | ----------------------------------------------------------------- | -------------------------- |
-| ![][sUN] FIAP          | **Aluno Destaque do Curso de Informática**              [⮚][37]   | 2017-2019 (EM)             |
-| ![][sUN] UNIVAP        | **Conclusão do Ensino Médio**                           [⮚][36]   | 16/12/2019                 |
-| ![][sIJ] INICJr        | **Certificado de Participação do Congresso**            [⮚][29]   | 24/10/2019 <br> 25/10/2019 |
-| ![][sIJ] INICJr        | **Codificador de Estruturas Moleculares**               [⮚][31]   | 25/10/2019                 |
-| ![][sIJ] INICJr        | **Aplicação para Correção Automática de Gabaritos**     [⮚][30]   | 24/10/2019                 |
-| ![][sIJ] INIC          | **Neurociência Cognitiva: Hipnose e Sugestionabilidade**[⮚][52]   | 21/10/2020                 |
-| ![][sDG] Duolingo      | **Duolingo Educator Training Program** ![][iUS]         [⮚][32]   | 01/06/2016                 |
-
-
-
-
-
-
-
-
-
 <div align="center">
   <a href="https://github.com/isaaquee">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isaaquee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
